@@ -4,7 +4,7 @@
  * demo
  */
 
-const XBW = require('../dist/index')
+const XBW = require('../src/index')
 
 const wallpaperMap = {
   today: [],

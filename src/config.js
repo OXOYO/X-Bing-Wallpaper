@@ -6,7 +6,7 @@
 
 exports = module.exports = {
   name: 'XBW',
-  version: 'v1.0.0',
+  version: 'v1.0.1',
   options: {
     host: 'http://cn.bing.com',
     api: 'HPImageArchive.aspx'
