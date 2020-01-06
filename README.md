@@ -2,6 +2,11 @@
 
 A bing wallpaper plugin.
 
+[![Version](https://img.shields.io/npm/v/@oxoyo/xbw.svg)](https://www.npmjs.com/package/@oxoyo/xbw)
+[![License](https://img.shields.io/npm/l/@oxoyo/xbw.svg)](https://www.npmjs.com/package/@oxoyo/xbw)
+[![NPM downloads](http://img.shields.io/npm/dm/@oxoyo/xbw.svg)](https://npmjs.org/package/@oxoyo/xbw)
+[![Downloads](https://img.shields.io/npm/dt/@oxoyo/xbw.svg)](https://www.npmjs.com/package/@oxoyo/xbw)
+
 ## Usage
 
 ```
