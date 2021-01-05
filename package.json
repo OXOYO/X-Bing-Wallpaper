@@ -16,7 +16,7 @@
   "author": "OXOYO <zmn2007.hi@163.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.21.1"
   },
   "devDependencies": {}
 }
